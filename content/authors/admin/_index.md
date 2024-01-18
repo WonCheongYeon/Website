@@ -52,19 +52,40 @@ education:
 skills:
   - name: Technical
     items:
-        - name: Stata
-          description: 
-          icon: chart-line
-          icon_pack: fas
-        - name: Python
-          description: 
-          icon: python
-          icon_pack: fab
-        - name: Snowboarding
-          description: 
-          icon: person-snowboarding
-          icon_pack: fas
-  
+      - name: Data Science
+        description: ''
+        percent: 80
+        icon: chart-line
+        icon_pack: fas
+      - name: STATA
+        description: ''
+        percent: 80
+        icon: database
+        icon_pack: fas
+      - name: Python
+        description: ''
+        percent: 60
+        icon: python
+        icon_pack: fab
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Snowbording 
+        description: ''
+        percent: 70
+        icon: person-snowboarding
+        icon_pack: fas
+      - name: Hiking
+        description: ''
+        percent: 100
+        icon: person-hiking
+        icon_pack: fas
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera-retro
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
