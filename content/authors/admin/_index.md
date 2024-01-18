@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CYWon
+# title: CYWon
 
 # Name pronunciation (optional)
 name_pronunciation: Cheongyeon Won
@@ -124,5 +124,6 @@ email: 'cheongyeon.won@monash.edu'
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate in Economics at Monash University and SoDa Labs. My research is centered on cliometrics, labour economics, Development Economics, and industrial policy. 
+On this website, I showcase some of my research work.
 {style="text-align: justify;"}
