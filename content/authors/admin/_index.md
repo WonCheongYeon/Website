@@ -115,7 +115,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV-Won.pdf
+    link: https://www.dropbox.com/scl/fi/cii55euei48xfwdll42a5/CV-Won.pdf?rlkey=e4nk68mgvuv2kap606krelw74&dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'cheongyeon.won@monash.edu'
