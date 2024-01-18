@@ -18,7 +18,7 @@ publishDate: "2021-04-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["Journal article"]
 
 # Publication name and optional abbreviated publication name.https://ideas.repec.org/a/mul/jrkmxm/doi10.1410-99826y2021i1p7-32.html
 publication: "Rivista di Storia Economica, 1"
