@@ -81,10 +81,10 @@ skills:
         percent: 100
         icon: person-hiking
         icon_pack: fas
-      - name: Photography
+      - name: History
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 70
+        icon: archive
         icon_pack: fas
 
 # Social/Academic Networking
