@@ -2,7 +2,7 @@
 
 title: "Jesus speaks Korean: Christianity and Literacy in Colonial Korea"
 authors:
-- cheongyeon_won
+- Cheongyeon Won
 - Sascha O. Becker
 #author_notes:
 #- "Equal contribution"

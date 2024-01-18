@@ -4,7 +4,7 @@
 title: "Sanctuary for SMEs: Static and Dynamic Effects of the SME Reservation Policy in 1980s Korea"
 summary: "This study investigates the effect of the Protection policy implemented by the Korean government in the 1980s on the competitiveness of small and medium-sized enterprises (SMEs) in the country's manufacturing sector. The policy aimed to safeguard the market for SMEs by imposing restrictions on large factories that produced specific products. To estimate the policy's impact, the study not only employed the difference-in-difference method but also constructed a control group of items that had been considered for protection but were ultimately not protected. By doing so, the study was able to isolate the policy's effects from other factors that could have influenced SME’s outcome. The results of the study suggest that the Protection policy played a crucial role in enhancing the performance of SMEs in the short term, which challenges conventional wisdom. These findings indicate that a well-designed protection policy can yield positive outcomes for SMEs in the short term."
 authors: 
-    - cheongyeon_won
+    - Cheongyeon Won
     - Changkeun Lee
     - Nathan Lane
 tags:
