@@ -2,7 +2,7 @@
 
 title: "Conquering Korea for Jesus: Protestant Missionaries, Local Churches, and Literacy in Colonial Korea"
 authors:
-- cheongyeon_won
+- Cheongyeon Won
 - Sascha O. Becker
 #author_notes:
 #- "Equal contribution"

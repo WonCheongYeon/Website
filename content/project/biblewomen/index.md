@@ -5,7 +5,7 @@ title: "The Holy Mother Will Set Women Free:
 Protestant Missionaries, Bible Women, and Women’s Rights in Colonial Korea"
 summary: ""
 authors: 
-  - cheongyeon_won
+  - Cheongyeon Won
 tags:
   - Cliometrics
 categories: []
