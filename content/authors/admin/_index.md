@@ -81,10 +81,10 @@ skills:
         percent: 100
         icon: person-hiking
         icon_pack: fas
-      - name: Tennis
+      - name: Running
         description: ''
-        percent: 40
-        icon: tennis-ball
+        percent: 60
+        icon: person-running
         icon_pack: fas
 
 # Social/Academic Networking
