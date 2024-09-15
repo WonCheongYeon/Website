@@ -124,6 +124,6 @@ email: 'cheongyeon.won@monash.edu'
 highlight_name: true
 ---
 
-I am a PhD candidate in Economics at Monash University and SoDa Labs. My research is centered on cliometrics, labour economics, Development Economics, and industrial policy. 
+
 On this website, I showcase some of my research work.
 {style="text-align: justify;"}
