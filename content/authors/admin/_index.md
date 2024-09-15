@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate, Economics.
+role: Assistant Professor, Ph.D. in Economics.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -124,6 +124,5 @@ email: 'cheongyeon.won@monash.edu'
 highlight_name: true
 ---
 
-
-On this website, I showcase some of my research work.
+Hello, I'm Cheongyeon Won, an Assistant Professor at Soongsil University in Seoul. I received my Ph.D. from Monash University in Melbourne. My research focuses on culture and religion in economic development and innovation, industrial policy, and labor economics. On this website, I showcase some of my research work.
 {style="text-align: justify;"}
