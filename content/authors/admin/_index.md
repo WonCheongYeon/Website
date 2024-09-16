@@ -20,8 +20,8 @@ superuser: true
 role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
-organizations: |
-  Dept. Entrepreneurship & Small Business,
+organizations: 
+  name: Dept. Entrepreneurship & Small Business,
   Soongsil University
     url: https://ensb.ssu.ac.kr/
 # Short bio (displayed in user profile at end of posts)
