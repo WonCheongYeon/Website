@@ -21,7 +21,8 @@ role: Assistant Professor, Ph.D. in Economics.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Dept. Entrepreneurship & Small Business, Soongsil University
+  - name: Dept. Entrepreneurship & Small Business,
+          Soongsil University
     url: https://ensb.ssu.ac.kr/%ed%95%99%ea%b3%bc%ec%86%8c%ea%b0%9c/%ed%95%99%ea%b3%bc-%ec%86%8c%ea%b0%9c/
 
 # Short bio (displayed in user profile at end of posts)
