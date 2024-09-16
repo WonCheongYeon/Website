@@ -21,7 +21,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations: 
-  name: Soongsil University
+  - name: Soongsil University
     url: https://ensb.ssu.ac.kr/
 # Short bio (displayed in user profile at end of posts)
 bio: "Research interests: Cliometrics, Labour Economics, Development Economics and Industrial Policy."
