@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor 
+role: Assistant Professor, 
 Ph.D. in Economics.
 
 # Organizations/Affiliations to show in About widget
