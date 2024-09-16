@@ -20,7 +20,7 @@ superuser: true
 role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
-organizations: |
+organizations:
   - name: Soongsil University
     url: https://ensb.ssu.ac.kr/
 # Short bio (displayed in user profile at end of posts)
